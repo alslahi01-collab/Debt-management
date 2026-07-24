@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الديون",
+  "description": "تطبيق متكامل وتفاعلي لإدارة وتسجيل الديون والحسابات باللغتين العربية والإنجليزية مع إمكانية النسخ الاحتياطي على جوجل درايف والطباعة وتصدير PDF وإكسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
